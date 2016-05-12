@@ -2,7 +2,7 @@
   "name": "property",
   "description": "Getter-setter wrapper with change notification",
   "license": "MIT",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "author": "Gustaf Räntilä <g.rantila@gmail.com>",
   "repository": {
     "type": "git",
