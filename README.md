@@ -27,7 +27,7 @@ prop3( prop3( ) + 1 ); // Reads value, adds one, then sets value
 // console.log: 2
 ```
 
-Since event emitters are used, if you add a listener, you must remember to remove the listener when appropriate, or you application will leak memory. This applies to all usages of event emitters, `property` is no exception.
+Since event emitters are used, if you add a listener, you must remember to remove the listener when appropriate, or your application will leak memory. This applies to all usages of event emitters, `property` is no exception.
 
 ### Manually triggering change events
 
